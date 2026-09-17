@@ -1,283 +1,427 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4B0082,7A2CB3,1E1E2E&height=200&section=header&text=Dev%20Chauhan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20ML%20Specialist&descAlignY=61&descAlign=62" width="100%" alt="Animated Header Banner" />
-</div>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A87FFB&center=true&vCenter=true&width=600&height=50&lines=Enterprise+Software+Engineer;AI+%26+ML+Architect;Full-Stack+Product+Developer;QA+Automation+Specialist" alt="Typing SVG Animation" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/B.Tech_CSE-Nirma_University-4B0082?style=for-the-badge&logo=academia&logoColor=white" alt="Academic Badge" />
-  <img src="https://img.shields.io/badge/Location-Ahmedabad,_Gujarat,_India-7A2CB3?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location Badge" />
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://chauhandev591.github.io"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=codeigniter&logoColor=A87FFB&border_color=4B0082" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/devchauhan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:chauhandev591@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/chauhandev591"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=chauhandev591&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/chauhandev591?label=Followers&style=for-the-badge&color=4B0082" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/chauhandev591?style=for-the-badge&color=7A2CB3" alt="Stars" />
-</div>
-
----
-
-## 👨‍💻 About
-
-I am a Computer Science Engineering student at Nirma University (Class of 2028), specializing in designing, building, and testing full-stack, AI-integrated systems[cite: 1, 2]. My engineering focus spans from developing hybrid edge-cloud AI architectures to engineering self-healing QA automation frameworks and ML-driven data pipelines[cite: 1, 2]. 
-
-I possess a strong foundation in data structures, algorithms, and object-oriented design, allowing me to translate ambiguous requirements into scalable, production-grade solutions[cite: 1, 2]. With a robust product engineering mindset, I prioritize reliable infrastructure, rigorous system validation, and optimizing cross-asset quantitative engines[cite: 1, 2]. 
-
-**Open To:** Full-Stack Software Engineering Internships, AI/ML Research Roles, QA Automation Roles, and Open Source Collaborations.
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-  
-**Languages**<br>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,matlab&theme=dark" alt="Languages" />
+<a href="https://capsule-render.vercel.app/">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=DEV%20CHAUHAN&fontSize=48&fontAlignY=35&animation=fadeIn&fontColor=ffffff&gradientColor=5b21b6&color=312e81" width="100%"/>
 </a>
 
-<br><br>
-
-**Frontend**<br>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark" alt="Frontend" />
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+AI%2FML+Engineer;Full-Stack+%7C+Automation+%7C+Distributed+Systems;Building+Production-Style+Engineering+Systems;Turning+Ambiguous+Problems+Into+Scalable+Solutions" alt="Typing SVG"/>
 </a>
 
-<br><br>
+<br/>
 
-**Backend & Databases**<br>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,sqlite&theme=dark" alt="Backend and Databases" />
+<img src="https://img.shields.io/badge/Nirma_University-B.Tech_CSE-6D28D9?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/Third_Year-Class_of_2028-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Location-Ahmedabad%2C_India-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+
+<br/><br/>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:chauhandev591@gmail.com">
+<img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/DevChauhan-13">
+<img src="https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br><br>
+<br/><br/>
 
-**Cloud, DevOps & Tooling**<br>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=aws,git,github,githubactions,selenium,postman,arduino,raspberrypi&theme=dark" alt="Cloud DevOps and Tooling" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=DevChauhan-13&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/DevChauhan-13?style=for-the-badge&color=4F46E5&label=FOLLOWERS"/>
+<img src="https://img.shields.io/github/stars/DevChauhan-13?style=for-the-badge&color=7C3AED&label=STARS"/>
 
 </div>
 
 ---
 
-## 🧠 AI / ML Expertise
+## About
 
-<div align="center">
+I am a **Computer Science Engineering student at Nirma University**, focused on building scalable, well-tested and production-style software systems across **software engineering, AI/ML, automation, distributed systems and embedded platforms**. :contentReference[oaicite:0]{index=0}
+
+My engineering approach centers around converting ambiguous problems into structured systems — from **self-healing browser automation and ML-driven monitoring pipelines** to **hybrid edge-cloud AI architectures, quantitative engines and autonomous robotic platforms**. :contentReference[oaicite:1]{index=1}
+
+I enjoy working across the complete engineering lifecycle: understanding requirements, designing architecture, implementing core systems, integrating APIs and data pipelines, validating behavior, debugging failures and building solutions that remain maintainable as complexity increases.
+
+### Engineering Interests
+
+- **Software Engineering** — scalable architecture, OOP, DSA, APIs and production-oriented development
+- **AI / ML** — anomaly detection, time-series modeling, NLP, intelligent automation and AI-integrated applications
+- **Full-Stack Engineering** — application architecture, backend systems, databases, dashboards and integrations
+- **QA & Automation** — Selenium, self-healing automation, API testing, regression systems and CI/CD
+- **Systems Engineering** — embedded platforms, robotics, computer vision and hardware-software integration
+- **Product Engineering** — transforming technical ideas into usable, measurable and reliable systems
+
+### Open To
+
+`Software Engineering` `AI/ML Engineering` `Full-Stack Development` `QA Automation` `AI Engineering` `Research` `Open Source`
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,matlab&theme=dark"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css&theme=dark"/>
+</p>
+
+### Backend & Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,sqlite&theme=dark"/>
+</p>
+
+### Cloud, DevOps & Tooling
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,postman,vscode,linux&theme=dark"/>
+</p>
+
+### AI / Robotics Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=opencv,tensorflow,arduino,raspberrypi&theme=dark"/>
+</p>
+
+---
+
+## AI / ML Expertise
 
 | Domain | Proficiency | Details |
-| :--- | :--- | :--- |
-| **Predictive Modeling & Anomaly Detection** | Advanced | Isolation Forest, LSTM, CNN-LSTM models for sensor drift prediction achieving >95% accuracy[cite: 1, 2]. |
-| **Edge-Cloud AI Architectures** | Advanced | Integration of Gemini Nano (On-device) and Gemini 1.5 Flash (Cloud) for low-latency, privacy-preserving inference[cite: 1, 2]. |
-| **Natural Language Processing (NLP)** | Intermediate | Fact-checking algorithms, streaming text decomposition, and sentence-boundary detection[cite: 1, 2]. |
-| **AI Data Validation & Trust** | Advanced | Vertex AI Grounding implementations to cross-reference AI-generated claims against live search datasets[cite: 1, 2]. |
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<details>
-  <summary><b>🤖 AI-Powered Self-Healing Test Automation Framework</b></summary>
-  <br>
-  Architected a self-healing Selenium/Python automation framework capable of detecting broken element locators and auto-recovering via a rule-based DOM similarity engine (tag, class, text matching)[cite: 1].
-  <br><br>
-
-  | Metric | Details |
-  | :--- | :--- |
-  | **Stack** | Python, Selenium WebDriver, Pytest, Similarity Engine[cite: 1]. |
-  | **Scale** | Processed live DOM trees with full event-logger auditability[cite: 1]. |
-  | **Performance** | Achieved up to ~92% match confidence for accurate locator identification[cite: 1]. |
-  | **Security** | Captured failure diagnostics securely for regression traceability[cite: 1]. |
-  | **Impact** | Eliminated brittle UI-driven test failures through automated recovery pipelines[cite: 1]. |
-  | **Repository** | [View Source Code](#) |
-
-  *Professional Context:* Engineered an element fingerprinting system capturing XPath and attribute signatures to dynamically adapt to front-end codebase changes, drastically reducing test maintenance overhead[cite: 1].
-</details>
-
-<details>
-  <summary><b>📊 AI/ML-Enhanced Sensor Calibration Platform</b></summary>
-  <br>
-  End-to-end, production-style calibration system deployed to identify sensor abnormalities and improve measurement reliability through automated noise-filtering algorithms[cite: 1, 2].
-  <br><br>
-
-  | Metric | Details |
-  | :--- | :--- |
-  | **Stack** | Python, Isolation Forest, LSTM, CNN-LSTM, SQLite, Full-stack Dashboard[cite: 1, 2]. |
-  | **Scale** | Persistent SQL-backed data pipeline handling real-time sensor streams[cite: 1, 2]. |
-  | **Performance** | >95% anomaly detection accuracy via rigorous validation pipelines[cite: 1, 2]. |
-  | **Security** | Automated validation of abnormal sensor behavior mitigating downstream data corruption[cite: 2]. |
-  | **Impact** | Reduced sensor measurement error by ~30% and manual verification effort by ~40%[cite: 1, 2]. |
-  | **Repository** | [View Source Code](#) |
-
-  *Professional Context:* Designed as a 36-hour Hackathon MVP, this architecture successfully integrated complex machine learning models directly into a real-time monitoring and regression-reporting dashboard[cite: 1, 2].
-</details>
-
-<details>
-  <summary><b>🛡️ VeriPhi | Browser-Integrated AI Trust Intelligence Layer</b></summary>
-  <br>
-  A Manifest V3 Chrome extension architected to verify LLM output in real time, executing hybrid edge-cloud processing to protect sensitive PII data while conducting deep logical reasoning[cite: 1, 2].
-  <br><br>
-
-  | Metric | Details |
-  | :--- | :--- |
-  | **Stack** | JavaScript, Manifest V3, Gemini Nano, Gemini 1.5 Flash, Vertex AI Grounding[cite: 1, 2]. |
-  | **Scale** | Analyzes streaming text in real-time within the browser environment[cite: 1, 2]. |
-  | **Performance** | Low-latency inference routing specific workloads to edge vs cloud[cite: 1, 2]. |
-  | **Security** | PII-sensitive processing routed exclusively on-device via Gemini Nano[cite: 2]. |
-  | **Impact** | Eliminated knowledge-cutoff errors by cross-referencing against live search data[cite: 2]. |
-  | **Repository** | [View Source Code](#) |
-
-  *Professional Context:* Developed to solve enterprise AI reliability issues, utilizing NLP-based sentence-boundary detection to decompose generated outputs into atomic, verifiable claims[cite: 1, 2].
-</details>
-
-<details>
-  <summary><b>📈 Cross-Asset Portfolio Optimization Framework</b></summary>
-  <br>
-  A Python-based quantitative engine built to construct and backtest systematic financial strategies across comprehensive 10- and 12-asset universes[cite: 2].
-  <br><br>
-
-  | Metric | Details |
-  | :--- | :--- |
-  | **Stack** | Python, Data Analytics, Quantitative Finance Libraries[cite: 2]. |
-  | **Scale** | Multi-asset universe processing[cite: 2]. |
-  | **Performance** | Automated backtesting (Max Drawdown, Sortino Ratio, Rolling Sharpe)[cite: 2]. |
-  | **Security** | Evaluates strategy robustness across volatile market regimes[cite: 2]. |
-  | **Impact** | Integrated Minimum Variance, Risk Parity, and Markowitz (Maximum Sharpe) models[cite: 2]. |
-  | **Repository** | [View Source Code](#) |
-
-  *Professional Context:* Engineered to evaluate risk and return matrices programmatically, executing advanced mathematical models to optimize asset allocation systematically[cite: 2].
-</details>
+|---|---|---|
+| Machine Learning | Advanced | Isolation Forest, supervised anomaly detection and ML-driven monitoring |
+| Time-Series ML | Advanced | LSTM and CNN-LSTM architectures for drift and remaining-useful-life style modeling |
+| NLP | Intermediate | Streaming-text decomposition and sentence-boundary based claim extraction |
+| AI Automation | Advanced | AI-assisted test recovery, intelligent element matching and automated validation |
+| Computer Vision | Intermediate | Embedded vision pipelines using Jetson Nano, Raspberry Pi and camera systems |
+| Edge AI | Intermediate | Hybrid edge-cloud architectures with privacy-sensitive on-device processing |
+| Data Pipelines | Advanced | SQL-backed pipelines, automated validation, reporting and monitoring |
+| AI Systems | Advanced | Integration of AI models into end-to-end software and distributed systems |
 
 ---
 
-## 💼 Experience
+## Featured Projects
 
-**Technical Team Member** | **Team Arrow (Robotics Club), Nirma University**
-*Aug 2024 – Nov 2024*
-* Engineered autonomous navigation software for a distributed, drone-based robotics platform[cite: 1, 2].
-* Integrated the Ardupilot flight stack with custom communication modules for real-time autonomous control[cite: 1, 2].
-* Built, tested, and debugged embedded computer-vision and sensor pipelines running on Jetson Nano and Raspberry Pi (Pi HQ Cameras)[cite: 1, 2].
-* Performed systematic hardware-software integration testing and root-cause debugging across the complete technology stack[cite: 1].
-> 🏷️ *Skills:* `C++` `Embedded C` `Jetson Nano` `Raspberry Pi` `Ardupilot` `Systems-level Engineering` `Hardware-Software Integration`
+<details>
+<summary><strong>AI-Powered Self-Healing Test Automation Framework</strong></summary>
+
+<br/>
+
+A production-style Selenium/Python automation framework designed to automatically recover from broken UI locators. The framework analyzes the live DOM, generates candidate replacements and uses element fingerprints and similarity-based matching to recover from front-end changes. :contentReference[oaicite:2]{index=2}
+
+| Metric | Implementation |
+|---|---|
+| **Stack** | Python · Selenium WebDriver · Pytest · DOM Analysis |
+| **Scale** | Modular UI automation framework |
+| **Performance** | Up to ~92% replacement-locator match confidence |
+| **Security** | Controlled browser automation and structured diagnostics |
+| **Impact** | Reduces brittle UI failures and improves regression resilience |
+| **Repository** | [GitHub](https://github.com/DevChauhan-13) |
+
+### Engineering Scope
+
+- Dynamic broken-locator detection
+- Live DOM parsing
+- Element fingerprint generation
+- Tag, class, text and attribute similarity
+- Candidate scoring and confidence estimation
+- Self-healing event logging
+- Failure diagnostics and regression traceability
+- Pytest-compatible automation architecture
+
+</details>
+
+<details>
+<summary><strong>AI/ML-Enhanced Sensor Calibration Platform</strong></summary>
+
+<br/>
+
+An end-to-end calibration and monitoring platform combining automated sensor validation, offset correction, noise filtering, anomaly detection, drift prediction and SQL-backed reporting. :contentReference[oaicite:3]{index=3}
+
+| Metric | Implementation |
+|---|---|
+| **Stack** | Python · Machine Learning · SQLite · LSTM · CNN-LSTM · Isolation Forest |
+| **Scale** | End-to-end calibration and monitoring platform |
+| **Performance** | ~30% reduction in measurement error; >95% anomaly detection accuracy |
+| **Security** | Persistent structured data pipeline and controlled validation workflow |
+| **Impact** | ~40% reduction in manual intervention |
+| **Repository** | [GitHub](https://github.com/DevChauhan-13/CalibrationAI) |
+
+### Engineering Scope
+
+- Automated sensor offset correction
+- Noise filtering and measurement validation
+- Isolation Forest anomaly detection
+- LSTM drift prediction
+- CNN-LSTM modeling
+- SQLite-backed persistent data pipeline
+- Real-time monitoring dashboard
+- Automated regression reporting
+- Long-term sensor reliability monitoring
+
+</details>
+
+<details>
+<summary><strong>VeriPhi — Browser-Integrated AI Trust Intelligence Layer</strong></summary>
+
+<br/>
+
+A Chrome Manifest V3 extension designed to analyze LLM output in real time by decomposing generated text into atomic claims and validating those claims through a hybrid edge-cloud AI architecture. :contentReference[oaicite:4]{index=4}
+
+| Metric | Implementation |
+|---|---|
+| **Stack** | JavaScript · Chrome Extension · Manifest V3 · NLP · Gemini · Vertex AI |
+| **Scale** | Browser-integrated AI verification layer |
+| **Performance** | Low-latency hybrid inference architecture |
+| **Security** | PII-sensitive processing routed to on-device inference |
+| **Impact** | Real-time AI-output verification and grounded claim validation |
+| **Repository** | [GitHub](https://github.com/DevChauhan-13) |
+
+### Engineering Scope
+
+- Chrome Manifest V3 architecture
+- Streaming text processing
+- NLP-based sentence-boundary detection
+- Atomic claim extraction
+- Hybrid edge-cloud inference
+- On-device Gemini Nano processing
+- Cloud Gemini 1.5 Flash reasoning
+- Vertex AI Grounding
+- Live search-based claim verification
+
+</details>
+
+<details>
+<summary><strong>Cross-Asset Portfolio Optimization Framework</strong></summary>
+
+<br/>
+
+A Python quantitative research engine for systematic portfolio construction and backtesting across multi-asset universes using classical portfolio optimization and risk-management techniques. :contentReference[oaicite:5]{index=5}
+
+| Metric | Implementation |
+|---|---|
+| **Stack** | Python · Markowitz · Minimum Variance · Risk Parity |
+| **Scale** | 10- and 12-asset portfolio universes |
+| **Performance** | Automated strategy backtesting across volatile regimes |
+| **Security** | Risk-aware portfolio construction and validation |
+| **Impact** | Systematic comparison of return-risk optimization strategies |
+| **Repository** | [GitHub](https://github.com/DevChauhan-13) |
+
+### Engineering Scope
+
+- Markowitz Maximum Sharpe optimization
+- Minimum Variance portfolios
+- Risk Parity allocation
+- Automated backtesting
+- Maximum Drawdown analysis
+- Sortino Ratio
+- Rolling Sharpe analysis
+- Volatility-regime evaluation
+
+</details>
+
+<details>
+<summary><strong>Autonomous Disaster Management Robot — RIACT 2026</strong></summary>
+
+<br/>
+
+Research work focused on a fully autonomous robotic system capable of navigating hazardous post-disaster environments and delivering humanitarian aid without direct human intervention. :contentReference[oaicite:6]{index=6}
+
+| Metric | Implementation |
+|---|---|
+| **Stack** | Robotics · Autonomous Navigation · Embedded Systems |
+| **Scale** | Autonomous disaster-response platform |
+| **Performance** | Autonomous operation in hazardous environments |
+| **Security** | Fail-safe navigation designed to reduce human exposure |
+| **Impact** | Humanitarian aid delivery without direct intervention |
+| **Publication** | RIACT 2026 |
+
+### Engineering Scope
+
+- Autonomous navigation
+- Hazardous-environment operation
+- Humanitarian payload delivery
+- Fail-safe navigation logic
+- Robotics systems engineering
+- Autonomous decision-making
+
+</details>
 
 ---
 
-## 🏆 Achievements
+## Experience
+
+### Technical Team Member — Team Arrow, Robotics Club · Nirma University
+
+**Aug 2024 – Nov 2024**
+
+Worked on autonomous robotics systems spanning navigation software, embedded computer vision, sensor pipelines and hardware-software integration. :contentReference[oaicite:7]{index=7}
+
+**Scope of Work**
+
+- Engineered autonomous navigation software for a distributed drone-based robotics platform.
+- Integrated the **ArduPilot flight stack** with custom communication modules for real-time autonomous control.
+- Built, tested and debugged embedded computer-vision pipelines.
+- Developed sensor-processing workflows on **Jetson Nano** and **Raspberry Pi**.
+- Performed systematic hardware-software integration testing.
+- Conducted root-cause debugging across embedded system interfaces.
+
+`ArduPilot` `Jetson Nano` `Raspberry Pi` `Computer Vision` `Embedded C` `Robotics` `Sensor Integration` `Autonomous Systems`
+
+---
+
+## Achievements
 
 <div align="center">
 
 | Recognition | Details |
-| :--- | :--- |
-| **International Research Publication** | Authored “Development and Application of a Fully Autonomous Robot for Disaster Management and Humanitarian Purposes,” accepted at **RIACT 2026**[cite: 1, 2]. |
-| **NASA Space Apps Challenge '24** | Global Hackathon Participant: Solved complex space-related engineering challenges under severe time constraints[cite: 1, 2]. |
-| **Hardware Engineering** | Engineered an offline IoT Gas Leakage Detector using an MQ-6 sensor and GSM modules for real-time SMS alerts without Wi-Fi dependency[cite: 1, 2]. |
+|---|---|
+| **RIACT 2026** | Research paper selected for publication on autonomous disaster-management robotics |
+| **Hackathon — Sensor Calibration** | Built an end-to-end AI/ML-enhanced calibration platform within a 36-hour MVP challenge |
+| **NASA Space Apps Challenge '24** | Participated in the global hackathon focused on solving space-related challenges |
+| **Robotics Club — Team Arrow** | Contributed to autonomous navigation and embedded robotics systems |
+| **IoT Systems Project** | Built an offline MQ-6/GSM gas-leakage alert system with real-time SMS notifications |
 
 </div>
 
 ---
 
-## 📜 Certifications
-
-<div align="center">
+## Certifications
 
 ### AWS
-<img src="https://img.shields.io/badge/AWS-Cloud_Infrastructure-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certification" />
+
+<img src="https://img.shields.io/badge/AWS-Cloud%20%26%20Engineering-7C3AED?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+No AWS certification is listed in the supplied profile.
 
 ### Oracle
-<img src="https://img.shields.io/badge/Oracle-Database_Management-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Certification" />
+
+<img src="https://img.shields.io/badge/Oracle-Technology-4F46E5?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+No Oracle certification is listed in the supplied profile.
 
 ### NPTEL
-<img src="https://img.shields.io/badge/NPTEL-Advanced_Engineering-FF9900?style=for-the-badge&logo=nptel&logoColor=white" alt="NPTEL Certification" />
+
+<img src="https://img.shields.io/badge/NPTEL-Certification-6D28D9?style=for-the-badge"/>
+
+No NPTEL certification is listed in the supplied profile.
 
 ### Cisco
-<img src="https://img.shields.io/badge/Cisco-Networking_Protocols-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Certification" />
+
+<img src="https://img.shields.io/badge/Cisco-Networking-312E81?style=for-the-badge&logo=cisco&logoColor=white"/>
+
+No Cisco certification is listed in the supplied profile.
+
+---
+
+## Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-Explore-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Explore-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-Explore-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-Explore-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-## 💻 Coding Profiles
+## GitHub Analytics
 
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=DevChauhan-13&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevChauhan-13&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD"/>
+
+<br/>
+
+<img width="700" src="https://streak-stats.demolab.com?user=DevChauhan-13&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C4B5FD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8"/>
+
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Trophies
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chauhandev591&show_icons=true&theme=radical&bg_color=0D1117&title_color=A87FFB&text_color=E6EDF3&icon_color=A87FFB&border_color=30363D&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chauhandev591&theme=radical&background=0D1117&ring=A87FFB&fire=A87FFB&currStreakLabel=A87FFB&border=30363D&hide_border=true" width="48%" alt="GitHub Streak" />
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chauhandev591&layout=compact&theme=radical&bg_color=0D1117&title_color=A87FFB&text_color=E6EDF3&border_color=30363D&hide_border=true" width="48%" alt="Top Languages" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=DevChauhan-13&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=7"/>
+
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## Contribution Activity
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chauhandev591&theme=radical&bg_color=0D1117&title_color=A87FFB&text_color=E6EDF3&border_color=30363D&margin-w=15&no-frame=true" alt="GitHub Trophies" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevChauhan-13&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=A78BFA&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
+
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## Contribution Snake
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chauhandev591&theme=react-dark&bg_color=0D1117&color=A87FFB&line=7A2CB3&point=ffffff&hide_border=true" width="100%" alt="Contribution Graph" />
+
+<img src="https://raw.githubusercontent.com/DevChauhan-13/DevChauhan-13/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
 </div>
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chauhandev591/chauhandev591/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chauhandev591/chauhandev591/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chauhandev591/chauhandev591/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-</div>
-
----
-
-## 🎯 Current Focus
+## Current Focus
 
 ```yaml
-Current_Status:
-  Learning: 
-    - "Distributed Systems & Cloud-Native Architectures"
-    - "Advanced Machine Learning Pipelines"
-  Building: 
-    - "Scalable Enterprise AI Tools"
-    - "Robust QA Test Automation Frameworks"
-  Exploring: 
-    - "Edge-Cloud Hybrid AI Implementations"
-    - "Quantitative Financial Algorithms"
-  Open_To:
-    - "Software Engineering Internships (2025/2026)"
-    - "Open Source Collaborations"
+Learning:
+  - Advanced Software Engineering
+  - AI/ML Systems
+  - Distributed Systems
+  - Test Automation Architecture
+  - Data Structures & Algorithms
+
+Building:
+  - Production-style AI applications
+  - Intelligent QA automation systems
+  - Full-stack engineering projects
+  - ML-driven monitoring pipelines
+
+Exploring:
+  - Agentic AI
+  - Edge AI
+  - Intelligent Developer Tooling
+  - Scalable Backend Architecture
+  - AI-assisted Software Quality
+
+Open To:
+  - Software Engineering Internships
+  - AI/ML Engineering Opportunities
+  - Full-Stack Engineering
+  - QA Automation
+  - Research Collaborations
+  - Open Source
